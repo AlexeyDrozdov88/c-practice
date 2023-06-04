@@ -22,7 +22,7 @@ void PrintArray(int[] arr1)
     }
 }
 
-// Ищем сумму на нечетных позициях
+// Ищем сумму на четных и нечетных позициях
 int[] FindEvenNoneven(int[] arr2)
 {
     int SumEven = 0;
@@ -41,4 +41,5 @@ int[] FindEvenNoneven(int[] arr2)
 int[] array = InputArray(4, -10, 10);
 PrintArray(array);
 int[] result = FindEvenNoneven(array);
-Console.WriteLine($"Сумма четных = {result[0]}, сумма нечетных = {result[1]}");
+Console.WriteLine();
+Console.WriteLine($"Сумма на четных позициях = {result[0]}, сумма на нечетных позициях = {result[1]}");

@@ -1,0 +1,15 @@
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.csproj.AssemblyReference.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.AssemblyInfoInputs.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.AssemblyInfo.cs
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.csproj.CoreCompileInputs.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\bin\Debug\net6.0\taskdop.exe
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\bin\Debug\net6.0\taskdop.deps.json
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\bin\Debug\net6.0\taskdop.runtimeconfig.json
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\bin\Debug\net6.0\taskdop.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\bin\Debug\net6.0\taskdop.pdb
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\refint\taskdop.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.pdb
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\taskdop.genruntimeconfig.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\taskdop\obj\Debug\net6.0\ref\taskdop.dll

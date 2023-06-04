@@ -22,13 +22,23 @@ void PrintArray(int[] arr1)
     }
 }
 
+// Ищем кол-во четных и нечетных
+int[] FindEvenNoneven(int[] arr2)
+{
+    int even = 0;
+    int noneven = 0;
+    int[] res = new int[2];
+    foreach (int el in arr2)
+    {
+        if (el % 2 == 0) even += 1; else noneven += 1;
+    }
+    res[0]=even;
+    res[1]=noneven;
+    return res;
+}
+
+
 int[] array = InputArray(4, 100, 999);
 PrintArray(array);
-
-int even = 0;
-int noneven = 0;
-foreach (int el in array)
-{
-    if (el % 2 == 0) even += 1; else noneven += 1;
-}
-Console.WriteLine($"Четных - {even}, нечетных - {noneven}");
+int[] result =  FindEvenNoneven(array);
+Console.WriteLine($"Четных - {result[0]}, нечетных - {result[1]}");

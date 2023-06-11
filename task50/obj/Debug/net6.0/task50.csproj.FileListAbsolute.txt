@@ -1,0 +1,15 @@
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\bin\Debug\net6.0\task50.exe
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\bin\Debug\net6.0\task50.deps.json
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\bin\Debug\net6.0\task50.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\bin\Debug\net6.0\task50.pdb
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\refint\task50.dll
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.pdb
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+C:\Users\lexxa\OneDrive\Рабочий стол\c# practice\task50\obj\Debug\net6.0\ref\task50.dll

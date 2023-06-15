@@ -45,19 +45,17 @@ void Printarray(int[,] matr)
 }
 
 // Перемножаем массивы  
-int[,] multi(int[,] matr1, int[,] matr2, int siz)
+int[,] multi(int[,] matr1, int[,] matr2)
 {
-    int[,] matrOut = new int[siz, siz];
-    for (int k = 0; k < matr1.GetLength(0); k++)
+    int[,] matrOut = new int[matr1.GetLength(0), matr1.GetLength(0)];
+    for (int i = 0; i < matr1.GetLength(0); i++)
     {
-        for (int i = 0; i < matr1.GetLength(0); i++)
+        for (int j = 0; j < matr1.GetLength(0); j++)
         {
-            int ele = 0;
-            for (int j = 0; j < matr1.GetLength(1); j++)
+            for (int k = 0; k < matr1.GetLength(0); k++)
             {
-                ele = ele + matr1[i, j] * matr2[j, i];
+                matrOut[i,j] += matr1[i, k] * matr2[k,j];
             }
-            matrOut[i, k] = ele;
         }
 
     }
@@ -74,4 +72,4 @@ Printarray(matrix1);
 Console.WriteLine();
 Printarray(matrix2);
 Console.WriteLine();
-Printarray(multi(matrix1, matrix2, size));
+Printarray(multi(matrix1, matrix2));
